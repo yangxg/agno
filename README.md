@@ -13,6 +13,9 @@
   <a href="https://github.com/agno-agi/agno/stargazers">🌟 Star Us</a>
 </div>
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/agno-agi/agno)
+
+
 ## What is Agno?
 
 [Agno](https://docs.agno.com) is a lightweight, high-performance library for building Agents.
